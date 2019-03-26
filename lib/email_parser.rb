@@ -11,6 +11,6 @@ class EmailParser
     @email << email
   end
   def self.parser(email)
-    
+
   end
 end
